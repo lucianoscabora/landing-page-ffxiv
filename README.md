@@ -1,4 +1,8 @@
-Página de landing para fins de estudo e prática de HTML/CSS.
 
+# Landing Page
 
-https://lucianoscabora.github.io/estudo-landing-page-ffxiv/
+This project consists of a landing page of a game which I have so much love for!
+
+## Stack
+
+**Front-end:** HTML, CSS.
